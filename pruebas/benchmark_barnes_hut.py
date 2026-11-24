@@ -45,7 +45,7 @@ def medir_rendimiento(cantidad, theta=0.5):
 def main():
     print("=== RENDIMIENTO BARNES-HUT ===")
 
-    cantidades = [1000]
+    cantidades = [100, 1000, 10000]
     resultados = []
 
     for cantidad in cantidades:
