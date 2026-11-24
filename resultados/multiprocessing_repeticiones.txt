@@ -1,0 +1,192 @@
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 1
+Construcción: 0.242868 s
+Aceleraciones: 8.037712 s
+Tiempo total: 8.280580 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 2
+Construcción: 0.194013 s
+Aceleraciones: 4.750766 s
+Tiempo total: 4.944780 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 4
+Construcción: 0.223750 s
+Aceleraciones: 4.406345 s
+Tiempo total: 4.630094 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 8
+Construcción: 0.245370 s
+Aceleraciones: 3.494462 s
+Tiempo total: 3.739832 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 1
+Construcción: 0.234891 s
+Aceleraciones: 7.558488 s
+Tiempo total: 7.793378 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 2
+Construcción: 0.218099 s
+Aceleraciones: 5.095558 s
+Tiempo total: 5.313657 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 4
+Construcción: 0.249885 s
+Aceleraciones: 4.299427 s
+Tiempo total: 4.549312 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 8
+Construcción: 0.218117 s
+Aceleraciones: 3.537004 s
+Tiempo total: 3.755121 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 1
+Construcción: 0.224961 s
+Aceleraciones: 7.604558 s
+Tiempo total: 7.829519 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 2
+Construcción: 0.224395 s
+Aceleraciones: 5.500462 s
+Tiempo total: 5.724857 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 4
+Construcción: 0.227762 s
+Aceleraciones: 4.205569 s
+Tiempo total: 4.433331 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 8
+Construcción: 0.233747 s
+Aceleraciones: 3.547815 s
+Tiempo total: 3.781563 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 1
+Construcción: 0.435386 s
+Aceleraciones: 9.375592 s
+Tiempo total: 9.810979 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 2
+Construcción: 0.215514 s
+Aceleraciones: 5.828046 s
+Tiempo total: 6.043560 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 4
+Construcción: 0.301416 s
+Aceleraciones: 5.477978 s
+Tiempo total: 5.779394 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 8
+Construcción: 0.248330 s
+Aceleraciones: 3.579220 s
+Tiempo total: 3.827550 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 1
+Construcción: 0.224469 s
+Aceleraciones: 7.924104 s
+Tiempo total: 8.148573 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 2
+Construcción: 0.217030 s
+Aceleraciones: 5.837491 s
+Tiempo total: 6.054521 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 4
+Construcción: 0.219075 s
+Aceleraciones: 4.323409 s
+Tiempo total: 4.542483 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 8
+Construcción: 0.233403 s
+Aceleraciones: 3.591173 s
+Tiempo total: 3.824576 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 1
+Construcción: 0.303507 s
+Aceleraciones: 7.936252 s
+Tiempo total: 8.239759 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 2
+Construcción: 0.293509 s
+Aceleraciones: 5.693460 s
+Tiempo total: 5.986969 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 4
+Construcción: 0.264439 s
+Aceleraciones: 4.344376 s
+Tiempo total: 4.608815 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
+=== BARNES-HUT MULTIPROCESSING ===
+Partículas: 10000
+Procesos: 8
+Construcción: 0.272574 s
+Aceleraciones: 4.226425 s
+Tiempo total: 4.498999 s
+Error relativo: 0.0000000000e+00
+Prueba finalizada.
