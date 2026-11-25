@@ -1,0 +1,144 @@
+=== BARNES-HUT MPI + LEAPFROG ===
+Partículas: 1000
+Procesos MPI: 2
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI: 3.993443 s
+Validación secuencial omitida
+SIMULACION MPI FINALIZADA
+=== BARNES-HUT MPI PLANO + LEAPFROG ===
+Particulas: 1000
+Procesos MPI: 2
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI plano: 3.263766 s
+Validacion secuencial omitida
+SIMULACION MPI PLANA FINALIZADA
+=== BARNES-HUT MPI + LEAPFROG ===
+Partículas: 1000
+Procesos MPI: 4
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI: 4.425008 s
+Validación secuencial omitida
+SIMULACION MPI FINALIZADA
+=== BARNES-HUT MPI PLANO + LEAPFROG ===
+Particulas: 1000
+Procesos MPI: 4
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI plano: 4.267330 s
+Validacion secuencial omitida
+SIMULACION MPI PLANA FINALIZADA
+=== BARNES-HUT MPI + LEAPFROG ===
+Partículas: 1000
+Procesos MPI: 2
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI: 5.940850 s
+Validación secuencial omitida
+SIMULACION MPI FINALIZADA
+=== BARNES-HUT MPI PLANO + LEAPFROG ===
+Particulas: 1000
+Procesos MPI: 2
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI plano: 6.009734 s
+Validacion secuencial omitida
+SIMULACION MPI PLANA FINALIZADA
+=== BARNES-HUT MPI + LEAPFROG ===
+Partículas: 1000
+Procesos MPI: 4
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI: 4.733818 s
+Validación secuencial omitida
+SIMULACION MPI FINALIZADA
+=== BARNES-HUT MPI PLANO + LEAPFROG ===
+Particulas: 1000
+Procesos MPI: 4
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI plano: 5.824044 s
+Validacion secuencial omitida
+SIMULACION MPI PLANA FINALIZADA
+=== BARNES-HUT MPI + LEAPFROG ===
+Partículas: 1000
+Procesos MPI: 2
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI: 6.545793 s
+Validación secuencial omitida
+SIMULACION MPI FINALIZADA
+=== BARNES-HUT MPI PLANO + LEAPFROG ===
+Particulas: 1000
+Procesos MPI: 2
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI plano: 4.503857 s
+Validacion secuencial omitida
+SIMULACION MPI PLANA FINALIZADA
+=== BARNES-HUT MPI + LEAPFROG ===
+Partículas: 1000
+Procesos MPI: 4
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI: 3.533829 s
+Validación secuencial omitida
+SIMULACION MPI FINALIZADA
+=== BARNES-HUT MPI PLANO + LEAPFROG ===
+Particulas: 1000
+Procesos MPI: 4
+Pasos: 10
+dt: 0.001
+Theta: 0.5
+Paso 10/10 completado
+
+=== RESULTADOS ===
+Tiempo MPI plano: 3.673006 s
+Validacion secuencial omitida
+SIMULACION MPI PLANA FINALIZADA
