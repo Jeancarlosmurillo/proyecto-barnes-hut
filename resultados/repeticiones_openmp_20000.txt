@@ -1,0 +1,30 @@
+========== REPETICION 1 ==========
+=== VALIDACION LEAPFROG OPENMP ===
+Particulas: 20000
+Pasos: 1
+Tiempo secuencial: 0.585792 s
+1 hilos | Tiempo: 0.676700 s | Error maximo: 0.000000000000e+00
+2 hilos | Tiempo: 0.268006 s | Error maximo: 0.000000000000e+00
+4 hilos | Tiempo: 0.291135 s | Error maximo: 0.000000000000e+00
+8 hilos | Tiempo: 0.209549 s | Error maximo: 0.000000000000e+00
+VALIDACION LEAPFROG OPENMP SUPERADA
+========== REPETICION 2 ==========
+=== VALIDACION LEAPFROG OPENMP ===
+Particulas: 20000
+Pasos: 1
+Tiempo secuencial: 0.520360 s
+1 hilos | Tiempo: 0.525600 s | Error maximo: 0.000000000000e+00
+2 hilos | Tiempo: 0.250585 s | Error maximo: 0.000000000000e+00
+4 hilos | Tiempo: 0.140507 s | Error maximo: 0.000000000000e+00
+8 hilos | Tiempo: 0.117767 s | Error maximo: 0.000000000000e+00
+VALIDACION LEAPFROG OPENMP SUPERADA
+========== REPETICION 3 ==========
+=== VALIDACION LEAPFROG OPENMP ===
+Particulas: 20000
+Pasos: 1
+Tiempo secuencial: 0.398869 s
+1 hilos | Tiempo: 0.365147 s | Error maximo: 0.000000000000e+00
+2 hilos | Tiempo: 0.204601 s | Error maximo: 0.000000000000e+00
+4 hilos | Tiempo: 0.150082 s | Error maximo: 0.000000000000e+00
+8 hilos | Tiempo: 0.152751 s | Error maximo: 0.000000000000e+00
+VALIDACION LEAPFROG OPENMP SUPERADA

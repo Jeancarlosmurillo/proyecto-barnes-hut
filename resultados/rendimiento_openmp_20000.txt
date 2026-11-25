@@ -1,0 +1,9 @@
+=== VALIDACION LEAPFROG OPENMP ===
+Particulas: 20000
+Pasos: 1
+Tiempo secuencial: 0.422879 s
+1 hilos | Tiempo: 0.401901 s | Error maximo: 0.000000000000e+00
+2 hilos | Tiempo: 0.272088 s | Error maximo: 0.000000000000e+00
+4 hilos | Tiempo: 0.288565 s | Error maximo: 0.000000000000e+00
+8 hilos | Tiempo: 0.200404 s | Error maximo: 0.000000000000e+00
+VALIDACION LEAPFROG OPENMP SUPERADA
